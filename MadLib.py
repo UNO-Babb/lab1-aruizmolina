@@ -8,7 +8,7 @@ def main():
   #Ask user for words
   noun1 = input("Give me a noun ")
   noun2 = input("Give me another noun ")
-  adj1 = input("Give me and adjective ")
+  adj1 = input("Give me an adjective ")
   verb1 = input("Give me a verb in the past tense ")
   verb2 = input("Give me another verb in the past tense ")
   adverb1 = input("Give me an adverb ")
